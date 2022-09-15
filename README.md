@@ -8,4 +8,4 @@ If you click add button your food will be chosen in that category. When you're e
 
 ## Project will be improved.
 I'm not a designer. Therefore, I used only free assets from the Unity Asset Store. Moreover UI parts might be more attractive.Additionally, I cannot find a menu table. That's why I just use a photo which was taken with one of my friends' wedding :)
-![](https://drive.google.com/drive/folders/1tS9N2Sv7r-aFv2S8BZLSdxi75ASWaN-g)
+![ARProject](https://user-images.githubusercontent.com/101329548/190413795-6e7ea6f9-e039-45c9-8a8f-1e4e130dd694.JPG)
